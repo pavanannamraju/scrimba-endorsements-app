@@ -1,4 +1,4 @@
-# cob7c4a7090cdd8941132c6e5
+# Scrimba Solo Project - Endorsements
 
 Quick start:
 
